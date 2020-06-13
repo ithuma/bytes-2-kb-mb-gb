@@ -10,4 +10,4 @@ Result is String
 
 If you use it in your soft just remember to leave info about the suthor.
 
-It's not perfect solution, but few lines of code make my life simple :)
+It's not perfect solution, but few lines of code make my life simple :) 
