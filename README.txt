@@ -8,6 +8,6 @@ Inside txt file is easy example how to. Copy function to your lpi/pas file and c
 
 Result is String
 
-If you use it in your soft just remember to leave info about the suthor.
+If you use it in your soft just remember to leave info about the author.
 
 It's not perfect solution, but few lines of code make my life simple :) 
